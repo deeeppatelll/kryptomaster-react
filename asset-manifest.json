@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kryptomaster-react/static/css/main.deb4d580.chunk.css",
+    "main.js": "/kryptomaster-react/static/js/main.09793121.chunk.js",
+    "main.js.map": "/kryptomaster-react/static/js/main.09793121.chunk.js.map",
+    "runtime-main.js": "/kryptomaster-react/static/js/runtime-main.98421faa.js",
+    "runtime-main.js.map": "/kryptomaster-react/static/js/runtime-main.98421faa.js.map",
+    "static/css/2.02daa001.chunk.css": "/kryptomaster-react/static/css/2.02daa001.chunk.css",
+    "static/js/2.47a49cb8.chunk.js": "/kryptomaster-react/static/js/2.47a49cb8.chunk.js",
+    "static/js/2.47a49cb8.chunk.js.map": "/kryptomaster-react/static/js/2.47a49cb8.chunk.js.map",
+    "index.html": "/kryptomaster-react/index.html",
+    "static/css/2.02daa001.chunk.css.map": "/kryptomaster-react/static/css/2.02daa001.chunk.css.map",
+    "static/css/main.deb4d580.chunk.css.map": "/kryptomaster-react/static/css/main.deb4d580.chunk.css.map",
+    "static/js/2.47a49cb8.chunk.js.LICENSE.txt": "/kryptomaster-react/static/js/2.47a49cb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98421faa.js",
+    "static/css/2.02daa001.chunk.css",
+    "static/js/2.47a49cb8.chunk.js",
+    "static/css/main.deb4d580.chunk.css",
+    "static/js/main.09793121.chunk.js"
+  ]
+}
